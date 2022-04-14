@@ -1,0 +1,28 @@
+Type Conversion :
+https://www.w3schools.com/js/js_type_conversion.asp
+
+Break and Continue :
+https://www.w3schools.com/js/js_break.asp
+
+Dates : 
+https://www.w3schools.com/js/js_dates.asp
+
+Sets :
+https://www.w3schools.com/js/js_sets.asp
+
+Maps :
+https://www.w3schools.com/js/js_maps.asp
+
+Classes : 
+https://www.w3schools.com/js/js_classes.asp
+
+Math Functions :
+https://www.w3schools.com/js/js_math.asp
+
+Math Random Function : 
+https://www.w3schools.com/js/js_random.asp
+
+Iterables : 
+https://www.w3schools.com/js/js_iterables.asp
+
+GOOD LUCK!
